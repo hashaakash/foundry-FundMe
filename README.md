@@ -167,7 +167,6 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 
 ## Security Considerations
 
-- ✅ Uses OpenZeppelin's Ownable pattern for access control
 - ✅ Employs Chainlink price feeds for reliable price data
 - ✅ Implements checks-effects-interactions pattern
 - ✅ Prevents reentrancy attacks
